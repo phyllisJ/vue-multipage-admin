@@ -1,2 +1,2 @@
 # vue-multipage-admin
-vue 多页应用配置
+vue+webpack多页应用配置
